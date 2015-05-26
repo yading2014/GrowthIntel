@@ -1,0 +1,11 @@
+# curl command 
+
+# to get source code 
+curl www.example.com
+
+# write the output it retrieves 
+curl -o example.html www.example.com 
+ 
+curl -O www.example.com/example.html
+curl -OL www.example.com/example.html
+
